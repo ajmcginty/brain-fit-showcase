@@ -8,34 +8,23 @@ A full-stack mobile application built for a private client, helping adults 50+ b
 ---
 
 ## Screenshots
-
-<!-- HOME SCREEN — Daily goal progress rings -->
-> 📸 *Screenshot: Home screen with progress rings*
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-05-12 at 19 21 46" src="https://github.com/user-attachments/assets/f99a25dd-b87e-4f1e-8939-f5b9c207cc36" />
 
 &nbsp;
 
-<!-- GOAL DETAIL MODAL — Logging a specific goal -->
-> 📸 *Screenshot: Goal detail modal (e.g. logging exercise minutes)*
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-05-12 at 19 21 05" src="https://github.com/user-attachments/assets/45f73cf2-b29c-4c93-84cc-a9722373d17e" />
 
 &nbsp;
 
-<!-- WEEKLY CALENDAR — Completion history view -->
-> 📸 *Screenshot: Weekly calendar showing daily streaks*
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-05-12 at 19 22 40" src="https://github.com/user-attachments/assets/6c063e80-3ea1-44b3-ac04-ce191af9f986" />
 
 &nbsp;
 
-<!-- PROGRESS / WEEKLY SUMMARY — Stats and comparisons -->
-> 📸 *Screenshot: Weekly summary report with week-over-week comparison*
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-05-12 at 19 22 51" src="https://github.com/user-attachments/assets/1fe822b3-57c0-4536-8235-55d833e7df2d" />
 
 &nbsp;
 
-<!-- ARTICLES / LEARN SCREEN — Educational resources -->
-> 📸 *Screenshot: Learn screen with curated articles and category filters*
-
-&nbsp;
-
-<!-- AUTH SCREEN — Sign in / Sign up -->
-> 📸 *Screenshot: Authentication screen*
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-05-12 at 19 20 08" src="https://github.com/user-attachments/assets/27c93c4e-0547-40d1-9507-e2a0518e207a" />
 
 ---
 
